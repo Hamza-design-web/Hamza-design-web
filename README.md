@@ -1,4 +1,4 @@
-## **Project Title**
+## **Hello , I'm Hamza**
 - 👋 Hi, I’m @Hamza-design-web
 - 👀 I’m interested in learning as much as i can
 - 🌱 I’m currently learning JS
