@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JS
 - 📫 E-mail me at 12.hamza.sherif@tutamail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im 13
+- ⚡ Fun fact: Im Egyptian 🦅
 
 <!---
 Hamza-design-web/Hamza-design-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
